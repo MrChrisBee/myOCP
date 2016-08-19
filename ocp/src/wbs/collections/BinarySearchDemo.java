@@ -7,7 +7,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class BinarySearchDemo {
-
+ 
 	/*
 	 * wir bestücken eine list mit vornamen als strings. dann sortieren wir die
 	 * list aufsteigend. dann suchen wir mit binarySearch() einen vornamen, der
